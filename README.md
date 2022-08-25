@@ -1,0 +1,2 @@
+# ngodingbanh
+ini code iseng
